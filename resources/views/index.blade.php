@@ -71,7 +71,7 @@
         <div class="container py-4">
             <div data-aos="fade-up" data-aos-duration="500" class="row mb-5">
                 <div class="col-6 mx-auto">
-                    <div class="text-center">
+                    <div class="text-center text-success">
                         <p class="text-secondary-emphasis mb-2 fw-normal text-uppercase">Tiba za Asili za Mimea</p>
                         <h1 class="fw-bold display-5">Kategoria Zetu</h1>
                         <p class="text-muted mb-3">Gundua aina mbalimbali za bidhaa za kiasili zilizotengenezwa kusaidia
@@ -87,7 +87,7 @@
                         data-aos-duration="1000">
                         <div class="card-body">
                             <i class="ri-shield-cross-line display-1 text-success"></i>
-                            <h4 class="card-title fw-bold py-3 mb-0">
+                            <h4 class="card-title fw-bold py-3 mb-0 text-success">
                                 Kinga ya Mwili
                             </h4>
                             <p class="mb-0 small text-muted">Ongeza ulinzi wa mwili wako kwa bidhaa zetu za kiasili za
@@ -101,7 +101,7 @@
                         data-aos-duration="1000">
                         <div class="card-body">
                             <i class="ri-heart-pulse-line display-1 text-success"></i>
-                            <h4 class="card-title fw-bold py-3 mb-0">
+                            <h4 class="card-title fw-bold py-3 mb-0 text-success">
                                 Usawa wa Homoni
                             </h4>
                             <p class="mb-0 small text-muted">Msaada kwa afya ya homoni na uzazi kupitia viungo vya
@@ -115,7 +115,7 @@
                         data-aos-duration="1000">
                         <div class="card-body">
                             <i class="ri-pantone-line display-1 text-success"></i>
-                            <h4 class="card-title fw-bold py-3 mb-0">
+                            <h4 class="card-title fw-bold py-3 mb-0 text-success">
                                 Huduma ya Ngozi
                             </h4>
                             <p class="mb-0 small text-muted">Suluhu za kiasili kwa ngozi yenye afya na mng’ao, bila
@@ -129,7 +129,7 @@
                         data-aos-duration="1000">
                         <div class="card-body">
                             <i class="ri-plant-line display-1 text-success"></i>
-                            <h4 class="card-title fw-bold py-3 mb-0">
+                            <h4 class="card-title fw-bold py-3 mb-0 text-success">
                                 Msaada Dhidi ya Saratani
                             </h4>
                             <p class="mb-0 small text-muted">Tiba za mimea zinazosaidia mwili kupambana na saratani kwa
@@ -148,7 +148,7 @@
                 <div class="col-6 mx-auto">
                     <div class="text-center">
                         <p class="text-secondary-emphasis mb-2 fw-normal text-uppercase">Tiba Zinazopendwa Zaidi</p>
-                        <h1 class="fw-bold display-5">Bidhaa Zinazouzwa Zaidi</h1>
+                        <h1 class="fw-bold display-5 text-success">Bidhaa Zinazouzwa Zaidi</h1>
                         <span
                             class="bg-success px-5 mx-auto d-flex pb-2 justify-content-center col-1 rounded-pill"></span>
                     </div>
@@ -180,7 +180,7 @@
             </div>
         </div>
     </div>
-    <div class="bg-new-products text-white py-5">
+    <div class="bg-success text-white py-5">
         <div class="container py-4">
 
             <div data-aos="fade-up" data-aos-duration="500" class="row mb-5">
@@ -189,7 +189,7 @@
                         <p class="text-white-50 mb-2 fw-normal text-uppercase">MAONI YA WATEJA WETU</p>
                         <h1 class="fw-bold display-5">Maoni ya Wateja</h1>
                         <span
-                            class="bg-success px-5 mx-auto d-flex pb-2 justify-content-center col-1 rounded-pill"></span>
+                            class="bg-white px-5 mx-auto d-flex pb-2 justify-content-center col-1 rounded-pill"></span>
                     </div>
                 </div>
             </div>
@@ -204,7 +204,7 @@
                                 afya njema zaidi na mwili wangu kuwa sawa. Uzoefu wa kubadilisha maisha kabisa!"</p>
                         </div>
                         <div class="card-footer bg-transparent border-0">
-                            <p class="text-success mb-0">Maria N., Dar es Salaam</p>
+                            <p class="text-white mb-0">Maria N., Dar es Salaam</p>
                         </div>
                     </div>
                 </div>
@@ -219,7 +219,7 @@
                                 sana kwa suluhisho hili la mimea linalotegemewa!"</p>
                         </div>
                         <div class="card-footer bg-transparent border-0">
-                            <p class="text-success mb-0">John D., Arusha</p>
+                            <p class="text-white mb-0">John D., Arusha</p>
                         </div>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                                 sana. Ninapendekeza sana bidhaa za JKBRS!"</p>
                         </div>
                         <div class="card-footer bg-transparent border-0">
-                            <p class="text-success mb-0">Fatma H., Zanzibar</p>
+                            <p class="text-white mb-0">Fatma H., Zanzibar</p>
                         </div>
                     </div>
                 </div>
@@ -247,7 +247,7 @@
                 <div class="col-6 mx-auto">
                     <div class="text-center">
                         <p class="text-secondary-emphasis mb-2 fw-normal text-uppercase">AFYA NA USTAWI</p>
-                        <h1 class="fw-bold display-5">Makala Maarufu</h1>
+                        <h1 class="fw-bold display-5 text-success">Makala Maarufu</h1>
                         <span
                             class="bg-success px-5 mx-auto d-flex pb-2 justify-content-center col-1 rounded-pill"></span>
                     </div>
@@ -282,7 +282,7 @@
                         </a>
                         <div class="card-body px-0">
                             <a href="#">
-                                <h5 class="card-title fw-bold pb-2">Faida 10 za Juu za Tiba za Mimea</h5>
+                                <h5 class="card-title fw-bold pb-2 text-dark">Faida 10 za Juu za Tiba za Mimea</h5>
                             </a>
                             <p class="card-text"><small class="text-secondary">NOVEMBA 20, 2024</small></p>
                         </div>
@@ -297,7 +297,7 @@
                         </a>
                         <div class="card-body px-0">
                             <a href="#">
-                                <h5 class="card-title fw-bold pb-2">Kufikia Usawa wa Homoni Kiasili</h5>
+                                <h5 class="card-title fw-bold pb-2 text-dark">Kufikia Usawa wa Homoni Kiasili</h5>
                             </a>
                             <p class="card-text"><small class="text-secondary">NOVEMBA 12, 2024</small></p>
                         </div>
@@ -312,7 +312,7 @@
                         </a>
                         <div class="card-body px-0">
                             <a href="#">
-                                <h5 class="card-title fw-bold pb-2">Jinsi Virutubisho vya Mimea Vinavyosaidia Kinga
+                                <h5 class="card-title fw-bold pb-2 text-dark">Jinsi Virutubisho vya Mimea Vinavyosaidia Kinga
                                 </h5>
                             </a>
                             <p class="card-text"><small class="text-secondary">NOVEMBA 5, 2024</small></p>
@@ -328,7 +328,7 @@
                         </a>
                         <div class="card-body px-0">
                             <a href="#">
-                                <h5 class="card-title fw-bold pb-2">Nguvu ya Detox: Kusafisha Mwili Kiasili</h5>
+                                <h5 class="card-title fw-bold pb-2 text-dark">Nguvu ya Detox: Kusafisha Mwili Kiasili</h5>
                             </a>
                             <p class="card-text"><small class="text-secondary">OKTOBA 28, 2024</small></p>
                         </div>
@@ -343,7 +343,7 @@
                 <div class="col-6 mx-auto">
                     <div class="text-center">
                         <p class="text-secondary-emphasis mb-2 fw-normal text-uppercase">Suluhisho Mpya za Mimea</p>
-                        <h1 class="fw-bold display-5">Bidhaa Mpya Zilizowasili</h1>
+                        <h1 class="fw-bold display-5 text-success">Bidhaa Mpya Zilizowasili</h1>
                         <span
                             class="bg-success px-5 mx-auto d-flex pb-2 justify-content-center col-1 rounded-pill"></span>
                     </div>
@@ -384,12 +384,12 @@
                             <div class="col-lg-6 col-12">
                                 <div class="text-center text-md-start">
                                     <div class="mb-4">
-                                        <h1 class="fw-bold text-dark">Pata Habari Kuhusu Afya ya Kiasili</h1>
+                                        <h1 class="fw-bold text-success">Pata Habari Kuhusu Afya ya Kiasili</h1>
                                         <p>Jiandikishe kwenye jarida letu kwa taarifa kuhusu bidhaa mpya, vidokezo vya
                                             afya, na faida za uponyaji wa asili.</p>
                                     </div>
                                     <form class="d-grid d-md-flex gap-3">
-                                        <input class="form-control rounded-pill py-3 px-4 shadow-none border-0"
+                                        <input class="form-control rounded-pill py-3 px-4 shadow border-0"
                                             type="text" placeholder="Barua pepe" aria-label="email">
                                         <button class="btn btn-success rounded-pill py-2 px-5">Jiandikishe</button>
                                     </form>

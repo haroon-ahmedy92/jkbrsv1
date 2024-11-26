@@ -65,6 +65,15 @@ a:hover {
 .bg-success {
 	background-color: #2E8B57 !important;
 }
+.bg-success-gradient {
+	background: linear-gradient(
+        135deg,
+        #198754 0%,
+        #25a065 25%,
+        #989c97 75%,
+        #bebbb8 100%
+    );
+}
 .bg-setted {
 	background-color: #8b4513 !important;
 }
